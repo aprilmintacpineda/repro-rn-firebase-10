@@ -24,4 +24,4 @@ https://github.com/invertase/react-native-firebase/issues/10
 1. Initialize a new react-app
 2. Follow instructions at https://rnfirebase.io/ (you can skip android since this issue only happens on iOS)
 
-[Check out the diff]()
+[Check out the diff](https://github.com/aprilmintacpineda/repro-rn-firebase-10/commit/e95b9c59a278725429da9d23f448d9f855cbafd9)
